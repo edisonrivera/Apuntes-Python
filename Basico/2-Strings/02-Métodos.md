@@ -72,7 +72,7 @@ True
 > El mensaje si termina con 🤑
 
 ---
-## isalnum(), isalpha(), isnumeric() 🔢🆎
+## isalnum(), isalpha(), isnumeric(), isdigit() 🔢🆎0️⃣9️⃣
 
 * `isalnum()`: Saber si la cadena de texto de compone **únicamente** por **letras y números**.
 * `isalpha()`: Con esto sabremos si la cadena de texto únicamente contiene **letras**.
